@@ -3,13 +3,13 @@
    ======================================== */
 
 h1 {
-    color: #222;
+    color: #545454;
     font-size: 40px;
     text-align: center;
 }
 
 h2 {
-    color: #333;
+    color: #40c9ff;
 }
 
 p {
@@ -32,7 +32,7 @@ a {
 }
 
 .link-social {
-    color: #333;
+    color: #333333;
     text-decoration: none;
 }
 
